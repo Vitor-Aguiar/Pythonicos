@@ -1,2 +1,2 @@
 # Pythonicos
-# Exemplos e exercícios do Curso Pythonicos
+# Exemplos e exercícios do curso Pythonicos
